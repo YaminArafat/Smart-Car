@@ -1,2 +1,2 @@
-# Car-Controller-App-For-Arduino
-Used For Generating Command Code for Arduino that is sent through RF module to another Arduino Containing the Car
+# Arduino based bluetooth controlled 4 wheel car
+Created an android app for controlling the car which is connected with the bluetooth module of the car.
